@@ -35,3 +35,4 @@ cd ../backend
 npm install
 npm run dev
 # ➤ Backend will run at http://localhost:3000
+# you have to setup the mongodb environment variables as mentioned in .env in the backend folder for the database to run properly.
